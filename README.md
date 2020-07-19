@@ -2,8 +2,8 @@
 Playlist converter... Convert .Aimppl4 to .Smpl
 
 Samsung Music doesn't support m3u which is universal playlist format. only supports .smpl which is just a JSON file.
-I'm using AIMP3 on my desktop and using Samsung Music on my phone(Samsung Galaxy Note 9)
-I wanted to export my playlists from PC to Phone so I had to make this converter.
+
+I'm using AIMP3 on my desktop and using Samsung Music on my phone(Samsung Galaxy Note 9), and I wanted to export my playlists from PC to Phone so I had to make this converter.
 
 Only supports .aimppl4 to .smpl.
 You might need to change the path (hardcoded path: /storage/emulated/0/ ) if you are using different phone from mine.
